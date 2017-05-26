@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "wifiReset",
+  "commands": {
+    "wifiReset": {
+      "scriptType": "bash",
+      "scriptPath": "wifiReset.sh",
+      "vars": {}
+    }
+  }
+}
